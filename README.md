@@ -1,7 +1,7 @@
 
 # ATS Tracking
 
-Access the application here: [ATS System](https://ats-tracking.onrender.com)
+Access the application here: [ATS Tracking](https://ats-tracking.onrender.com)
 
 This project aims to streamline the hiring process by utilizing the Gemini model for efficient resume parsing and tracking. The ATS System reduces the need for traditional methods and offers enhanced accuracy and performance.
 
